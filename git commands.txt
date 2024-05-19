@@ -1,4 +1,5 @@
-Here are the top 20 Git commands
+Top 20 Git commands
+Here are the git commands
 git config
 git init
 git clone
